@@ -1,0 +1,33 @@
+1500624986157	geckodriver	INFO	geckodriver 0.18.0
+1500624986165	geckodriver	INFO	Listening on 127.0.0.1:51702
+1500624988214	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500624989268	Marionette	INFO	Listening on port 51708
+1500624989755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500624990897	geckodriver	INFO	geckodriver 0.18.0
+1500624990909	geckodriver	INFO	Listening on 127.0.0.1:51719
+1500624992944	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500624993911	Marionette	INFO	Listening on port 51730
+1500624994075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500625056186	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 7868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1500625059856	geckodriver	INFO	geckodriver 0.18.0
+1500625059864	geckodriver	INFO	Listening on 127.0.0.1:51752
+1500625061911	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500625062844	Marionette	INFO	Listening on port 51758
+1500625062987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500625064429	geckodriver	INFO	geckodriver 0.18.0
+1500625064443	geckodriver	INFO	Listening on 127.0.0.1:51770
+1500625066462	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500625067429	Marionette	INFO	Listening on port 51778
+1500625067573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500625129709	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1500625222071	geckodriver	INFO	geckodriver 0.18.0
+1500625222080	geckodriver	INFO	Listening on 127.0.0.1:49654
+1500625224128	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500625225081	Marionette	INFO	Listening on port 49660
+1500625225222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500625388311	geckodriver	INFO	geckodriver 0.18.0
+1500625388326	geckodriver	INFO	Listening on 127.0.0.1:49779
+1500625406718	geckodriver	INFO	geckodriver 0.18.0
+1500625406718	geckodriver	INFO	Listening on 127.0.0.1:49785
